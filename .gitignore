@@ -3,10 +3,10 @@ dist/
 
 # Local environment files
 .env
+.env.example
+.env.production.example
 .env.local
 .env.*.local
-!.env.example
-!.env.production.example
 
 # Logs
 *.log
